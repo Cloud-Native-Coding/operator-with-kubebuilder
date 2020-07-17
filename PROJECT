@@ -1,0 +1,7 @@
+domain: operators.cloud-native-coding.dev
+repo: operators.cloud-native-coding.dev
+resources:
+- group: batch
+  kind: CronJob
+  version: v1
+version: "2"
